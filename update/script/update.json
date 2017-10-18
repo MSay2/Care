@@ -1,11 +1,10 @@
 {
-    "versionName": "2.0",
-    "versionCode": "2",
+    "versionName": "3.0",
+    "versionCode": "3",
     "tested": "yes",
     "url": "https://raw.githubusercontent.com/MSay2/Care/master/update/application/app.apk",
     "release": 
     [
-        "- Fonction Double appuis pour copier le code de couleur Hexadécimal ajoutée",
-        "- Augmentation du rembourrage de l'icône dans les paramètres"
+        "- Vous avez maintenant la possibilité de changer l'obtention des codes de couleurs"
     ]
 }
